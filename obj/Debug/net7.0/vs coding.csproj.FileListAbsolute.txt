@@ -1,0 +1,15 @@
+C:\Users\braje\OneDrive\Desktop\vs coding\bin\Debug\net7.0\vs coding.exe
+C:\Users\braje\OneDrive\Desktop\vs coding\bin\Debug\net7.0\vs coding.deps.json
+C:\Users\braje\OneDrive\Desktop\vs coding\bin\Debug\net7.0\vs coding.runtimeconfig.json
+C:\Users\braje\OneDrive\Desktop\vs coding\bin\Debug\net7.0\vs coding.dll
+C:\Users\braje\OneDrive\Desktop\vs coding\bin\Debug\net7.0\vs coding.pdb
+C:\Users\braje\OneDrive\Desktop\vs coding\obj\Debug\net7.0\vs coding.csproj.AssemblyReference.cache
+C:\Users\braje\OneDrive\Desktop\vs coding\obj\Debug\net7.0\vs coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braje\OneDrive\Desktop\vs coding\obj\Debug\net7.0\vs coding.AssemblyInfoInputs.cache
+C:\Users\braje\OneDrive\Desktop\vs coding\obj\Debug\net7.0\vs coding.AssemblyInfo.cs
+C:\Users\braje\OneDrive\Desktop\vs coding\obj\Debug\net7.0\vs coding.csproj.CoreCompileInputs.cache
+C:\Users\braje\OneDrive\Desktop\vs coding\obj\Debug\net7.0\vs coding.dll
+C:\Users\braje\OneDrive\Desktop\vs coding\obj\Debug\net7.0\refint\vs coding.dll
+C:\Users\braje\OneDrive\Desktop\vs coding\obj\Debug\net7.0\vs coding.pdb
+C:\Users\braje\OneDrive\Desktop\vs coding\obj\Debug\net7.0\vs coding.genruntimeconfig.cache
+C:\Users\braje\OneDrive\Desktop\vs coding\obj\Debug\net7.0\ref\vs coding.dll
